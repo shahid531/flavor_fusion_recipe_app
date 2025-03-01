@@ -1,16 +1,13 @@
-# recipes
+# FlavourFusion
 
-A new Flutter project.
+FlavourFusion is a recipe app that offers a diverse collection of recipes, making it easy for users to follow step-by-step guides and prepare delicious meals effortlessly.
 
-## Getting Started
+## This app is built using:
 
-This project is a starting point for a Flutter application.
+✅ Dio for efficient API handling
 
-A few resources to get you started if this is your first Flutter project:
+✅ Flutter_Bloc for state management
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+✅ Cached Network Image for optimized image loading
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots:
